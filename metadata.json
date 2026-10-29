@@ -1,0 +1,6 @@
+{
+  "name": "PCTE Hostel Room Allotment Portal",
+  "description": "Comprehensive college hostel management portal for room allotment, student applications, room-change requests, and administrative control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
